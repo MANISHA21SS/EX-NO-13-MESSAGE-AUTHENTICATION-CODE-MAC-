@@ -3,6 +3,7 @@
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
+
 ## ALGORITHM:
 
 1. Message Authentication Code (MAC) is a cryptographic technique used to verify the integrity and authenticity of a message by using a secret key.
